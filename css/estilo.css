@@ -1,0 +1,62 @@
+body{
+	background-color: #ccc;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1_Aj8BXlWUXYJ-lcGYAw6x4ZOr2oQXKH4mtl3ukl0to0E1ZM);
+	padding-top: 8%;
+	font-family: 'Pangolin', cursive;
+	font-family: 'Kavivanar', cursive;
+}
+img{
+	width: 300px;
+	height: 300px;
+	min-width: 300px;
+	min-height: 300px;
+	max-width: 300px;
+	max-height: 300px;
+}
+#conte{
+	box-shadow: 5px 2px 5px pink;
+	border-radius: 5px 2px 5px 5px;
+	background: #ccc;
+}
+#facebook{
+	background: url(https://image.flaticon.com/icons/svg/69/69407.svg);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+#Twiter{
+	background: url(https://image.flaticon.com/icons/svg/69/69480.svg);
+	height: 50px;
+	width: 50px;
+
+}
+#Instagram{
+	background: url(https://image.flaticon.com/icons/svg/69/69366.svg);
+	height:50px;
+	width: 50px;
+	border-radius: 100%;
+
+}
+
+
+
+#Youtube{
+	background: url(https://image.flaticon.com/icons/svg/123/123722.svg);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	
+}
+#info{
+	height: 123px;
+	padding-top: 45px;
+}
+
+
+#botones{
+	display: flex;
+
+}
+#Yo{
+	font-family: 'Kavivanar', cursive;
+}
